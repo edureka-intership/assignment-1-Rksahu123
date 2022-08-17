@@ -2,3 +2,6 @@
 Ramkrushna Sahu
 # Project Name
 Staic search page of the product.
+#Technologies Used
+-HTML
+-CSS
