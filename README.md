@@ -1,8 +1,8 @@
-# assignment-1-Rksahu123
+# Assignee Name
 Ramkrushna Sahu
 # Project Name
-Staic search page of the product.
+Static search page of the product.
 # Technologies Used
 HTML & CSS
 # Application Used
-VS Code
+Visual Studio Code
